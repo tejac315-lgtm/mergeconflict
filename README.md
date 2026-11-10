@@ -1,2 +1,2 @@
-welcome to student Management System
+welcome to python project
 
